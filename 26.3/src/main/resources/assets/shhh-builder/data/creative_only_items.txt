@@ -1,0 +1,20 @@
+# Shhh Builder: Creative-only and Survival-unobtainable items
+# Players in standard Survival mode cannot craft, mine, or pick up these blocks.
+minecraft:bedrock
+minecraft:barrier
+minecraft:spawner
+minecraft:command_block
+minecraft:chain_command_block
+minecraft:repeating_command_block
+minecraft:structure_block
+minecraft:structure_void
+minecraft:jigsaw
+minecraft:light
+minecraft:budding_amethyst
+minecraft:reinforced_deepslate
+minecraft:end_portal_frame
+minecraft:debug_stick
+minecraft:trial_spawner
+minecraft:vault
+minecraft:test_block
+minecraft:test_instance_block

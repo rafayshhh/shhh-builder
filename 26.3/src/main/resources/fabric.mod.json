@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "shhh-builder",
+	"version": "${version}",
+	"name": "Shhh Builder",
+	"description": "A simple, beginner-friendly schematic viewer for building.",
+	"authors": [
+		"RafayShhh"
+	],
+	"contact": {
+		"homepage": "https://github.com/RafayShhh/shhh-builder",
+		"sources": "https://github.com/RafayShhh/shhh-builder",
+		"issues": "https://github.com/RafayShhh/shhh-builder/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/shhh-builder/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"io.github.rafayshhh.shhhbuilder.client.ShhhBuilderClient"
+		],
+		"modmenu": [
+			"io.github.rafayshhh.shhhbuilder.client.integration.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		{
+			"config": "shhh-builder.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
