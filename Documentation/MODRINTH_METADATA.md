@@ -26,11 +26,11 @@
 
 ## Gallery Images
 
-Upload the 3 screenshot files located in `Documentation/showcase/`:
+Upload the showcase files located in `Documentation/showcase/` (or `Assets/`):
 
-### Image 1: Schematics Manager Screen
+### Image 1: Main Schematic Browser
 - File: `Documentation/showcase/showcase-main.jpg` (or `Assets/1.jpg`)
-- Title: Schematics Browser & Placement Screen
+- Title: Schematic Browser & Placement Screen
 - Description: Clean split-pane schematic picker with search filtering, placement controls, and responsive layout.
 
 ### Image 2: Interactive Materials Checklist
@@ -38,10 +38,30 @@ Upload the 3 screenshot files located in `Documentation/showcase/`:
 - Title: Materials Checklist & Inventory Scanner
 - Description: Real-time item tracker showing required materials, inventory counts, shulker math, and placed-block deductions.
 
-### Image 3: Interactive In-Game Tutorial
-- File: `Documentation/showcase/showcase-tutorial.jpg` (or `Assets/3.jpg`)
-- Title: Step-by-Step Interactive Tutorial
-- Description: Built-in 7-step guide featuring glowing accent borders, interactive keycap tooltips, and shortcut guides.
+### Image 3: In-World Hologram Ghost Blocks
+- File: `Documentation/showcase/showcase-hologram.jpg` (or `Assets/3.jpg`)
+- Title: In-World Holographic Ghost Preview
+- Description: Translucent textured 3D ghost blocks rendered directly in the world with glowing cyan bounding box.
+
+### Image 4: Configuration Settings
+- File: `Documentation/showcase/showcase-settings.jpg` (or `Assets/4.jpg`)
+- Title: Grouped Settings & Quality Presets
+- Description: Grouped settings screen covering Preview appearance, Performance presets, and HUD customization.
+
+### Image 5: Keybindings Menu
+- File: `Documentation/showcase/showcase-keybinds.jpg` (or `Assets/5.jpg`)
+- Title: Customizable Keybindings
+- Description: Controls menu showing intuitive placement, rotation, layer slicing, and nudging hotkeys.
+
+### Image 6: Client-Side Commands
+- File: `Documentation/showcase/showcase-commands.jpg` (or `Assets/6.jpg`)
+- Title: In-Game Client Commands
+- Description: Complete client-side `/shhhbuilder` command suite operating with zero server communication.
+
+### Image 7: Hero Banner
+- File: `Documentation/showcase/showcase-banner.jpg` (or `Assets/banner.jpg`)
+- Title: Shhh Builder Banner
+- Description: Official project banner showcasing the glowing sample house hologram.
 
 ---
 

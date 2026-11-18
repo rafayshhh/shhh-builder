@@ -24,17 +24,29 @@
 
 ## Screenshots (Images Tab)
 
-Upload the 3 screenshot files located in `Documentation/showcase/`:
+Upload the showcase files located in `Documentation/showcase/` (or `Assets/`):
 
 1. `showcase-main.jpg` (or `Assets/1.jpg`)
-   - Title: Schematics Manager Screen
+   - Title: Schematic Browser & Placement Screen
    - Description: Clean split-pane schematic picker with search filtering, placement controls, and responsive layout.
 2. `showcase-materials.jpg` (or `Assets/2.jpg`)
-   - Title: Interactive Materials Checklist
+   - Title: Materials Checklist & Inventory Scanner
    - Description: Real-time item tracker showing required materials, inventory counts, shulker math, and placed-block deductions.
-3. `showcase-tutorial.jpg` (or `Assets/3.jpg`)
-   - Title: Interactive In-Game Tutorial
-   - Description: Built-in 7-step guide featuring glowing accent borders, interactive keycap tooltips, and shortcut guides.
+3. `showcase-hologram.jpg` (or `Assets/3.jpg`)
+   - Title: In-World Holographic Ghost Preview
+   - Description: Translucent textured 3D ghost blocks rendered directly in the world with glowing cyan bounding box.
+4. `showcase-settings.jpg` (or `Assets/4.jpg`)
+   - Title: Grouped Settings & Quality Presets
+   - Description: Grouped settings screen covering Preview appearance, Performance presets, and HUD customization.
+5. `showcase-keybinds.jpg` (or `Assets/5.jpg`)
+   - Title: Customizable Keybindings
+   - Description: Controls menu showing intuitive placement, rotation, layer slicing, and nudging hotkeys.
+6. `showcase-commands.jpg` (or `Assets/6.jpg`)
+   - Title: In-Game Client Commands
+   - Description: Complete client-side `/shhhbuilder` command suite operating with zero server communication.
+7. `showcase-banner.jpg` (or `Assets/banner.jpg`)
+   - Title: Shhh Builder Banner
+   - Description: Official project banner showcasing the glowing sample house hologram.
 
 ---
 
